@@ -1,5 +1,5 @@
 {
-  "$schema": "/docs.json",
+  "$schema": "https://teleservices.io",
   "theme": "mint",
   "name": "Telebothost",
   "colors": {
