@@ -1,11 +1,11 @@
 {
   "$schema": "https://teleservices.io",
   "theme": "mint",
-  "name": "Telebothost",
+  "name": "TBH • TeleBotHost Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#16A34A", // Emerald green
+    "light": "#A7F3D0",   // Lighter green (background gradients use this)
+    "dark": "#065F46"     // Darker green for contrast
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -83,7 +83,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@teleservices.io"
       }
     ],
     "primary": {
@@ -94,9 +94,19 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/teleserviceapi",
+      "github": "https://github.com/teleserviceapi",
+      "linkedin": "https://linkedin.com/company/teleservices"
+    }
+  },
+  "styling": {
+    "codeblocks": "dark",
+    "eyebrows": "section"
+  },
+  "background": {
+    "gradient": {
+      "from": "#d1fae5",  // soft green
+      "to": "#10b981"     // emerald
     }
   }
 }
