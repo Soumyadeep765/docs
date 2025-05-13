@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "TBH • TeleBotHost Docs",
   "colors": {
-    "primary": "#16A34A", // Emerald green
-    "light": "#A7F3D0",   // Lighter green (background gradients use this)
-    "dark": "#065F46"     // Darker green for contrast
+    "primary": "#16A34A", 
+    "light": "#A7F3D0",   
+    "dark": "#065F46" 
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -105,8 +105,8 @@
   },
   "background": {
     "gradient": {
-      "from": "#d1fae5",  // soft green
-      "to": "#10b981"     // emerald
+      "from": "#d1fae5",  
+      "to": "#10b981"
     }
   }
 }
